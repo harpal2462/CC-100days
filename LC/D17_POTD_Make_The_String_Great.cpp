@@ -11,7 +11,7 @@ public:
             } 
             else st.push(s[i]);  
         }
-        while(!st.empty()){
+        while(!st.empty()){   //Don't make mistake of while(st.empty()) XX use while(!st.empty())
             ans+=st.top();
             st.pop();
         }
