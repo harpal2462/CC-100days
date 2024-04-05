@@ -18,6 +18,6 @@ public:
     }
 };
 
-// Q:https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/?envType=daily-question&envId=2024-03-29
+//Q:https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/?envType=daily-question&envId=2024-03-29
 
-// A:https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/solutions/4940242/simplified-algorithm-explained-with-visual-example-c-java
+//A:https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/solutions/4940242/simplified-algorithm-explained-with-visual-example-c-java
