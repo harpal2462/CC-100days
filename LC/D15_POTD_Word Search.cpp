@@ -33,5 +33,5 @@ public:
     }
 };
 
-// Q: https://leetcode.com/problems/word-search/?envType=daily-question&envId=2024-04-03
-// A: https://leetcode.com/problems/word-search/solutions/3223126/best-c-solution-ever-backtracking-matrix-string-one-stop-solution
+//Q: https://leetcode.com/problems/word-search/?envType=daily-question&envId=2024-04-03 
+//A: https://leetcode.com/problems/word-search/solutions/3223126/best-c-solution-ever-backtracking-matrix-string-one-stop-solution
