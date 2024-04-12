@@ -36,5 +36,6 @@ public:
     }
 };
 
+
 // Q: https://leetcode.com/problems/trapping-rain-water/?envType=daily-question&envId=2024-04-12
 // A: https://leetcode.com/problems/trapping-rain-water/solutions/3401992/100-detailed-explaination-with-pictures-in-c-java-python-two-pointers
