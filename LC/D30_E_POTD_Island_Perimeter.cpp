@@ -1,4 +1,5 @@
-// D30_E_POTD_Island_Perimeter
+// D30_E_POTD_Island_Perimeter // asked in multiple companies 
+// No dfs because its TC will be 4^N which is worst than N^2 use dfs when multiple lans are there.
 class Solution {
 public:
     int islandPerimeter(vector<vector<int>>& grid) {
