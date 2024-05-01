@@ -19,6 +19,8 @@ public:
     }
 };
 
+// See this Q for Map Logic: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
+
 // Q:https://leetcode.com/problems/number-of-wonderful-substrings/?envType=daily-question&envId=2024-04-30
 
 // A:https://www.youtube.com/watch?v=EnBTWY52n_A&t=196s
