@@ -16,6 +16,6 @@ public:
         return ans;
     }
 };
-
+ 
 // Q:https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/?envType=daily-question&envId=2024-06-23
 // A:https://www.youtube.com/watch?v=dlvajECagM4

@@ -23,5 +23,5 @@ public:
         return ans;
     }
 };
-
+ 
 // Q:https://leetcode.com/problems/grumpy-bookstore-owner/?envType=daily-question&envId=2024-06-21

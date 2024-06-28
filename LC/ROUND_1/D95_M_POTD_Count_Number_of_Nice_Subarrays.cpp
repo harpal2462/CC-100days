@@ -20,6 +20,6 @@ public:
                 -subArrayLessThanEqualTo(nums,k-1);
     }
 };
-
+ 
 // Q:https://leetcode.com/problems/count-number-of-nice-subarrays/?envType=daily-question&envId=2024-06-22
 // A:https://www.youtube.com/watch?v=dhu5_v2iY8E
