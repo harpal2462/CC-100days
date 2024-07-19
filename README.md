@@ -1,6 +1,6 @@
-# LeetCode Solutions
+# 100DaysOfCode Challenge
 
-Welcome to my collection of LeetCode solutions! This repository serves as a **backup** and a showcase of my journey in solving various coding problems on LeetCode.
+Welcome to my collection of problems solved during this challenge! This repository serves as a **backup** and a showcase of my journey in solving various coding problems on LeetCode.
 
 ## Why I am Pushing Each Solution to GitHub
 
